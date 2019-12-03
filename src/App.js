@@ -1,5 +1,5 @@
 import React from 'react';
-import AgendaComponent from './component/AgendaComponent';
+import AgendaComponent from './component/AgendaComponent.js';
 import './App.css';
 
 class App extends React.Component {
